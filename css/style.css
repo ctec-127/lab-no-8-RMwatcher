@@ -10,3 +10,8 @@ body {
 th a:link, th a:visited, th a:hover, th a:active {
     color: #ffffff;
 }
+
+.jumbotron {
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+}
